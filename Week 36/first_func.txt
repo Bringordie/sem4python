@@ -1,0 +1,17 @@
+exercise1.py
+exercise3.py
+fifth_func.txt
+first_func.txt
+random_md_file.md
+random_md_file2.md
+second_func.txt
+test.txt
+test2.csv
+test8.txt
+text_with_emails.txt
+text_with_emails2.txt
+utils.py
+utilsModule.py
+Week_36.ipynb
+__init__.py
+__pycache__
