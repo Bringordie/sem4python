@@ -1,3 +1,4 @@
+.ipynb_checkpoints
 exercise1.py
 exercise3.py
 fifth_func.txt

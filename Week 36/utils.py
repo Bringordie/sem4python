@@ -39,4 +39,4 @@ def fifth_function(lst):
         with open("fifth_func.txt", 'w') as file_object:
             for line in lines_to_output:
                 file_object.write(line)
-        print("Written to fifth_func.txt")
+    print("Written to fifth_func.txt")

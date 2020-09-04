@@ -15,4 +15,5 @@ utils.py
 utilsModule.py
 Week_36.ipynb
 __init__.py
+.ipynb_checkpoints
 __pycache__
