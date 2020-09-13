@@ -1,0 +1,10 @@
+1,Derek Allen,Male,"[['Math', '101', 'Paul Wallace', 20], ['Programming', '102', 'Michael Colon', 20], ['English', '103', 'Jessica Russell', 25]]","[12, -3, 'No Grade']",DerekAllen.img
+2,Paul Wilkins,Female,"[['Programming', '102', 'Michael Colon', 20], ['English', '103', 'Jessica Russell', 25], ['Physics', '104', 'Gregory Collier', 30]]","[0, 7, 'No Grade']",PaulWilkins.img
+3,Jeremy Bowers,Female,"[['English', '103', 'Jessica Russell', 25], ['History', '105', 'Angie Warren', 10]]","[4, -3]",JeremyBowers.img
+4,Stanley Hooper,Male,"[['Math', '101', 'Paul Wallace', 20], ['English', '103', 'Jessica Russell', 25], ['Physics', '104', 'Gregory Collier', 30]]","['No Grade', 2, 'No Grade']",StanleyHooper.img
+5,Elizabeth Dunn,Male,"[['Math', '101', 'Paul Wallace', 20], ['Programming', '102', 'Michael Colon', 20]]","[0, 'No Grade']",ElizabethDunn.img
+6,Theresa Anderson,Female,"[['Physics', '104', 'Gregory Collier', 30]]",[12],TheresaAnderson.img
+7,Laurie Kelly,Female,"[['Physics', '104', 'Gregory Collier', 30], ['History', '105', 'Angie Warren', 10]]","[4, 7]",LaurieKelly.img
+8,Nancy Hall,Female,"[['Math', '101', 'Paul Wallace', 20], ['Programming', '102', 'Michael Colon', 20], ['English', '103', 'Jessica Russell', 25], ['History', '105', 'Angie Warren', 10]]","[-3, 0, 'No Grade', 0]",NancyHall.img
+9,Taylor Roberts,Male,"[['Math', '101', 'Paul Wallace', 20], ['English', '103', 'Jessica Russell', 25]]","['No Grade', 'No Grade']",TaylorRoberts.img
+10,Stephanie Romero,Female,"[['Physics', '104', 'Gregory Collier', 30]]",[4],StephanieRomero.img
