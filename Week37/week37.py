@@ -1,9 +1,9 @@
+from faker import Faker
+fake = Faker()
 import ast
 import random as r
 import csv
 import platform
-from faker import Faker
-fake = Faker()
 if platform.system() == 'Windows':
     newline=''
 else:

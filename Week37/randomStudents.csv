@@ -1,10 +1,10 @@
-1,Derek Allen,Male,"[['Math', '101', 'Paul Wallace', 20], ['Programming', '102', 'Michael Colon', 20], ['English', '103', 'Jessica Russell', 25]]","[12, -3, 'No Grade']",DerekAllen.img
-2,Paul Wilkins,Female,"[['Programming', '102', 'Michael Colon', 20], ['English', '103', 'Jessica Russell', 25], ['Physics', '104', 'Gregory Collier', 30]]","[0, 7, 'No Grade']",PaulWilkins.img
-3,Jeremy Bowers,Female,"[['English', '103', 'Jessica Russell', 25], ['History', '105', 'Angie Warren', 10]]","[4, -3]",JeremyBowers.img
-4,Stanley Hooper,Male,"[['Math', '101', 'Paul Wallace', 20], ['English', '103', 'Jessica Russell', 25], ['Physics', '104', 'Gregory Collier', 30]]","['No Grade', 2, 'No Grade']",StanleyHooper.img
-5,Elizabeth Dunn,Male,"[['Math', '101', 'Paul Wallace', 20], ['Programming', '102', 'Michael Colon', 20]]","[0, 'No Grade']",ElizabethDunn.img
-6,Theresa Anderson,Female,"[['Physics', '104', 'Gregory Collier', 30]]",[12],TheresaAnderson.img
-7,Laurie Kelly,Female,"[['Physics', '104', 'Gregory Collier', 30], ['History', '105', 'Angie Warren', 10]]","[4, 7]",LaurieKelly.img
-8,Nancy Hall,Female,"[['Math', '101', 'Paul Wallace', 20], ['Programming', '102', 'Michael Colon', 20], ['English', '103', 'Jessica Russell', 25], ['History', '105', 'Angie Warren', 10]]","[-3, 0, 'No Grade', 0]",NancyHall.img
-9,Taylor Roberts,Male,"[['Math', '101', 'Paul Wallace', 20], ['English', '103', 'Jessica Russell', 25]]","['No Grade', 'No Grade']",TaylorRoberts.img
-10,Stephanie Romero,Female,"[['Physics', '104', 'Gregory Collier', 30]]",[4],StephanieRomero.img
+1,Carlos Williams,Female,"[['Programming', '102', 'John Smith', 20]]",['No Grade'],CarlosWilliams.img
+2,Brandi Adkins,Female,"[['Math', '101', 'Paul Gutierrez', 20], ['History', '105', 'Dawn Flores', 10]]","[2, 4]",BrandiAdkins.img
+3,Caitlin Gregory,Male,"[['Programming', '102', 'John Smith', 20], ['English', '103', 'Andrew Kaiser', 25], ['Physics', '104', 'Sandra Gomez', 30], ['History', '105', 'Dawn Flores', 10]]","[7, 12, 'No Grade', 4]",CaitlinGregory.img
+4,Austin Barnes,Male,"[['Math', '101', 'Paul Gutierrez', 20], ['English', '103', 'Andrew Kaiser', 25], ['History', '105', 'Dawn Flores', 10]]","[4, 'No Grade', 'No Grade']",AustinBarnes.img
+5,Hannah Rodgers DVM,Male,"[['Math', '101', 'Paul Gutierrez', 20], ['Physics', '104', 'Sandra Gomez', 30], ['History', '105', 'Dawn Flores', 10]]","['No Grade', 7, 'No Grade']",HannahRodgersDVM.img
+6,Christine Steele,Male,"[['Programming', '102', 'John Smith', 20], ['English', '103', 'Andrew Kaiser', 25]]","['No Grade', 'No Grade']",ChristineSteele.img
+7,Brittany Harris,Female,"[['Math', '101', 'Paul Gutierrez', 20], ['Programming', '102', 'John Smith', 20], ['English', '103', 'Andrew Kaiser', 25], ['History', '105', 'Dawn Flores', 10]]","[0, 4, 'No Grade', 'No Grade']",BrittanyHarris.img
+8,Jennifer Harris,Male,"[['Math', '101', 'Paul Gutierrez', 20], ['Physics', '104', 'Sandra Gomez', 30]]","['No Grade', 'No Grade']",JenniferHarris.img
+9,Susan Simmons,Female,"[['Math', '101', 'Paul Gutierrez', 20], ['Programming', '102', 'John Smith', 20]]","[10, 0]",SusanSimmons.img
+10,Paige Martin,Male,"[['Programming', '102', 'John Smith', 20], ['Physics', '104', 'Sandra Gomez', 30], ['History', '105', 'Dawn Flores', 10]]","['No Grade', 7, 10]",PaigeMartin.img

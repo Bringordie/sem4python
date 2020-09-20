@@ -1,3 +1,3 @@
-7,Laurie Kelly,Female,"[['Physics', '104', 'Gregory Collier', 30], ['History', '105', 'Angie Warren', 10]]","[4, 7]",LaurieKelly.img
-6,Theresa Anderson,Female,"[['Physics', '104', 'Gregory Collier', 30]]",[12],TheresaAnderson.img
-10,Stephanie Romero,Female,"[['Physics', '104', 'Gregory Collier', 30]]",[4],StephanieRomero.img
+3,Caitlin Gregory,Male,"[['Programming', '102', 'John Smith', 20], ['English', '103', 'Andrew Kaiser', 25], ['Physics', '104', 'Sandra Gomez', 30], ['History', '105', 'Dawn Flores', 10]]","[7, 12, 'No Grade', 4]",CaitlinGregory.img
+10,Paige Martin,Male,"[['Programming', '102', 'John Smith', 20], ['Physics', '104', 'Sandra Gomez', 30], ['History', '105', 'Dawn Flores', 10]]","['No Grade', 7, 10]",PaigeMartin.img
+5,Hannah Rodgers DVM,Male,"[['Math', '101', 'Paul Gutierrez', 20], ['Physics', '104', 'Sandra Gomez', 30], ['History', '105', 'Dawn Flores', 10]]","['No Grade', 7, 'No Grade']",HannahRodgersDVM.img
