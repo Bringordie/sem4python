@@ -9,3 +9,5 @@ Week 35 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/
 Week 36 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bringordie/sem4python/master?filepath=Week36%2FWeek_36.ipynb)
 
 Week 37 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bringordie/sem4python/master?filepath=Week37%2FWeek_37.ipynb)
+
+Week 38 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bringordie/sem4python/master?filepath=Week38%2FWeek_38.ipynb)
