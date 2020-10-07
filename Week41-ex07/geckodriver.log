@@ -1,0 +1,1523 @@
+1602018794503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5N7Udh"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602018797642	Marionette	INFO	Listening on port 46165
+1602018797761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602018927146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiaukbh"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602018929061	Marionette	INFO	Listening on port 36619
+1602018929168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602019015999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKfNtoO"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602019017956	Marionette	INFO	Listening on port 42309
+1602019018007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://julio-cdn.eniro.com/pixel/eniro.pixel.script-2.0.js, line 176: ReferenceError: AWS is not defined
+1602019058344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeff4UZ"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602019059806	Marionette	INFO	Listening on port 46105
+1602019059889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602019164891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileakKbbu"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602019167124	Marionette	INFO	Listening on port 45053
+1602019167200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602019210377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVYM8oU"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602019212430	Marionette	INFO	Listening on port 34437
+1602019212484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602019221124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLB7neL"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602019223309	Marionette	INFO	Listening on port 37339
+1602019223353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602019780235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilege4wHQ"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602019782237	Marionette	INFO	Listening on port 40603
+1602019782305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602019934943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel7Xdwh"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602019936295	Marionette	INFO	Listening on port 33953
+1602019936574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602019960800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ2dSzX"
+Error: no DISPLAY environment variable specified
+1602020145321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCP633W"
+Error: no DISPLAY environment variable specified
+1602020264014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIL4j7b"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602020266013	Marionette	INFO	Listening on port 39579
+1602020266021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602020287336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEiG9DO"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602020289179	Marionette	INFO	Listening on port 38217
+1602020289248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602020295695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqQ2j5d"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602020297862	Marionette	INFO	Listening on port 36159
+1602020297905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602020318336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebkS7P3"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602020320328	Marionette	INFO	Listening on port 36923
+1602020320347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602020324760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWwoe71"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602020326396	Marionette	INFO	Listening on port 33567
+1602020326485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602020493276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejkIp62"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602020495216	Marionette	INFO	Listening on port 42753
+1602020495282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602020514934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiTB2zY"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602020516740	Marionette	INFO	Listening on port 43775
+1602020516871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://julio-cdn.eniro.com/pixel/eniro.pixel.script-2.0.js, line 176: ReferenceError: AWS is not defined
+1602021193998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegxzKZV"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602021195901	Marionette	INFO	Listening on port 36535
+1602021195915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 7400, MediaDecoderStateMachine #1] WARNING: 7f25205ebd50 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7400, MediaDecoderStateMachine #1] WARNING: Decoder=7f2519261800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602021319700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXiiC6Q"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602021321611	Marionette	INFO	Listening on port 44689
+1602021321706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 7710, MediaDecoderStateMachine #1] WARNING: 7fd4093b7bf0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 7710, MediaDecoderStateMachine #1] WARNING: Decoder=7fd419dbcc00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602021345742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezTz4rq"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602021347708	Marionette	INFO	Listening on port 36709
+1602021347752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 8007, MediaDecoderStateMachine #1] WARNING: 7efc34343230 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 8007, MediaDecoderStateMachine #1] WARNING: Decoder=7efc34faf000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 8007, MediaDecoderStateMachine #1] WARNING: 7efc34343230 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 8007, MediaDecoderStateMachine #1] WARNING: Decoder=7efc34faf000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602021441537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGzUoGO"
+Error: no DISPLAY environment variable specified
+1602021603036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJkhHbS"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602021605060	Marionette	INFO	Listening on port 35533
+1602021605148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 8402, MediaDecoderStateMachine #1] WARNING: 7f83007f4160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 8402, MediaDecoderStateMachine #1] WARNING: Decoder=7f82fcba8c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 8402, MediaDecoderStateMachine #1] WARNING: 7f83007f4160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 8402, MediaDecoderStateMachine #1] WARNING: Decoder=7f82fcba8c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602021676064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyVnQRb"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602021678209	Marionette	INFO	Listening on port 44397
+1602021678278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 8726, MediaDecoderStateMachine #1] WARNING: 7f247cf39ae0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 8726, MediaDecoderStateMachine #1] WARNING: Decoder=7f245fec7000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602021691167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1YLRPL"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602021693304	Marionette	INFO	Listening on port 37731
+1602021693388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 9019, MediaDecoderStateMachine #1] WARNING: 7fd781e82300 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 9019, MediaDecoderStateMachine #1] WARNING: Decoder=7fd78afd3800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602021720876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH49dtQ"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602021722836	Marionette	INFO	Listening on port 42689
+1602021722903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 9331, MediaDecoderStateMachine #1] WARNING: 7f346a4d68b0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 9331, MediaDecoderStateMachine #1] WARNING: 7f346a4d6570 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 9331, MediaDecoderStateMachine #1] WARNING: Decoder=7f346a50c400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602022137301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3YTeIt"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602022139297	Marionette	INFO	Listening on port 43333
+1602022139327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 9751, MediaDecoderStateMachine #1] WARNING: 7f096db081f0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 9751, MediaDecoderStateMachine #1] WARNING: Decoder=7f096b5c3000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 9751, MediaDecoderStateMachine #1] WARNING: 7f096db082c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 9751, MediaDecoderStateMachine #1] WARNING: Decoder=7f096b5c3000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602022218125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejSNK9i"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602022220090	Marionette	INFO	Listening on port 46597
+1602022220140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 10040, MediaDecoderStateMachine #1] WARNING: 7fdc9b2847a0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 10040, MediaDecoderStateMachine #1] WARNING: Decoder=7fdc9abe7400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602022462736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehq8yUT"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602022464191	Marionette	INFO	Listening on port 45839
+1602022464288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 10442, MediaDecoderStateMachine #1] WARNING: 7ff57fdef600 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 10442, MediaDecoderStateMachine #1] WARNING: 7ff57fdef600 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 10442, MediaDecoderStateMachine #1] WARNING: Decoder=7ff580fd5000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Home directory not accessible: Permission denied
+[Child 10442, MediaDecoderStateMachine #1] WARNING: 7ff5775a0600 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 10442, MediaDecoderStateMachine #1] WARNING: Decoder=7ff57c74e800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602022543553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledKlXGA"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602022549362	Marionette	INFO	Listening on port 35907
+1602022549420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 10748, MediaDecoderStateMachine #1] WARNING: 7fa68928a460 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 10748, MediaDecoderStateMachine #1] WARNING: 7fa68928a460 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 10748, MediaDecoderStateMachine #1] WARNING: Decoder=7fa69278ec00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602022573680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMnW3br"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602022576716	Marionette	INFO	Listening on port 43773
+1602022576793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 11070, MediaDecoderStateMachine #1] WARNING: 7f2eef93a090 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 11070, MediaDecoderStateMachine #1] WARNING: Decoder=7f2ecfbd3400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602022634029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegEMMMm"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602022637592	Marionette	INFO	Listening on port 45205
+1602022637639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 11399, MediaDecoderStateMachine #1] WARNING: 7fc5fbeee7a0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 11399, MediaDecoderStateMachine #1] WARNING: 7fc5fbeee7a0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 11399, MediaDecoderStateMachine #1] WARNING: Decoder=7fc5fbceb400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602022720955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRtpE4T"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602022723842	Marionette	INFO	Listening on port 34227
+1602022723865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 11796, MediaDecoderStateMachine #1] WARNING: 7fe30028f6d0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 11796, MediaDecoderStateMachine #1] WARNING: Decoder=7fe30241cc00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602022749077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Y67cu"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602022752050	Marionette	INFO	Listening on port 43771
+1602022752175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 12084, MediaDecoderStateMachine #1] WARNING: 7fe637343710 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 12084, MediaDecoderStateMachine #1] WARNING: 7fe6373437e0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12084, MediaDecoderStateMachine #1] WARNING: Decoder=7fe637305400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://ced.sascdn.com/tag/3310/smart.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1602022864401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebcyX3M"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602022867900	Marionette	INFO	Listening on port 43315
+1602022867914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 12449, MediaDecoderStateMachine #1] WARNING: 7fb57ceb9460 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 12449, MediaDecoderStateMachine #1] WARNING: 7fb57cebaa50 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12449, MediaDecoderStateMachine #1] WARNING: Decoder=7fb56f75b400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1602022892020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5FuU1l"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602022895355	Marionette	INFO	Listening on port 41859
+1602022895429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 12777, MediaDecoderStateMachine #1] WARNING: 7efd12ac87e0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 12777, MediaDecoderStateMachine #1] WARNING: 7efd12ac8a50 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 12777, MediaDecoderStateMachine #1] WARNING: Decoder=7efd110d6c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://ced.sascdn.com/tag/3310/smart.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+[Child 12777, MediaDecoderStateMachine #1] WARNING: Decoder=7efd110d6c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1602022929027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefS3tt4"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602022931661	Marionette	INFO	Listening on port 32885
+1602022931756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 13105, MediaDecoderStateMachine #1] WARNING: 7ffa19b3a160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 13105, MediaDecoderStateMachine #1] WARNING: 7ffa19b3a160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 13105, MediaDecoderStateMachine #1] WARNING: Decoder=7ff9f6926c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+[Child 13105, MediaDecoderStateMachine #1] WARNING: Decoder=7ff9f6926c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1602022986016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefyujq5"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602022993457	Marionette	INFO	Listening on port 36115
+1602022993559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 13458, MediaDecoderStateMachine #1] WARNING: 7fdf9592da10 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 13458, MediaDecoderStateMachine #1] WARNING: 7fdf9592da10 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 13458, MediaDecoderStateMachine #1] WARNING: Decoder=7fdf91fd9400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602023316638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile41gbTy"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023321040	Marionette	INFO	Listening on port 42003
+1602023321576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 13969, MediaDecoderStateMachine #1] WARNING: 7f165e7ae2c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 13969, MediaDecoderStateMachine #1] WARNING: 7f166909d3d0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 13969, MediaDecoderStateMachine #1] WARNING: Decoder=7f165e31a400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602023340852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewmgXsx"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023344079	Marionette	INFO	Listening on port 35141
+1602023344161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 14334, MediaDecoderStateMachine #1] WARNING: 7f2eeb6f42c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 14334, MediaDecoderStateMachine #1] WARNING: 7f2eeb6f42c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 14334, MediaDecoderStateMachine #1] WARNING: Decoder=7f2eeb255800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Home directory not accessible: Permission denied
+[Child 14334, MediaDecoderStateMachine #1] WARNING: 7f2f006c4160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 14334, MediaDecoderStateMachine #1] WARNING: Decoder=7f2eebb3a800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602023371107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Pt3JZ"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023378903	Marionette	INFO	Listening on port 46313
+1602023379080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 14704, MediaDecoderStateMachine #1] WARNING: 7fc05ca7ee20 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 14704, MediaDecoderStateMachine #1] WARNING: 7fc04facc8b0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 14704, MediaDecoderStateMachine #1] WARNING: Decoder=7fc05cdbdc00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Home directory not accessible: Permission denied
+[Child 14704, MediaDecoderStateMachine #1] WARNING: 7fc04fc9a2c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 14704, MediaDecoderStateMachine #1] WARNING: Decoder=7fc04d07e400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602023409811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSDo2WP"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023417295	Marionette	INFO	Listening on port 40743
+1602023417363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 15059, MediaDecoderStateMachine #1] WARNING: 7f7126e982c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 15059, MediaDecoderStateMachine #1] WARNING: 7f7126e982c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 15059, MediaDecoderStateMachine #1] WARNING: Decoder=7f71307c4c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1602023498978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFOuxwq"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023505080	Marionette	INFO	Listening on port 44539
+1602023505195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 15464, MediaDecoderStateMachine #1] WARNING: 7f7ec721ee20 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 15464, MediaDecoderStateMachine #1] WARNING: 7f7ec6517300 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 15464, MediaDecoderStateMachine #1] WARNING: Decoder=7f7ec4ae4000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602023534929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiT6UwC"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023538925	Marionette	INFO	Listening on port 34411
+1602023538972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 15793, MediaDecoderStateMachine #1] WARNING: 7f8966d98a50 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 15793, MediaDecoderStateMachine #1] WARNING: 7f895a7f22c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 15793, MediaDecoderStateMachine #1] WARNING: Decoder=7f8965642400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602023570480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekt3ivw"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023576094	Marionette	INFO	Listening on port 40303
+1602023576125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 16141, MediaDecoderStateMachine #1] WARNING: 7f8627cc0120 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 16141, MediaDecoderStateMachine #1] WARNING: 7f8627cc0120 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 16141, MediaDecoderStateMachine #1] WARNING: Decoder=7f86312cf800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Home directory not accessible: Permission denied
+[Child 16141, MediaDecoderStateMachine #1] WARNING: 7f8636bfb8b0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 16141, MediaDecoderStateMachine #1] WARNING: Decoder=7f8627f73c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 16141, MediaDecoderStateMachine #1] WARNING: 7f86315e5600 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 16141, MediaDecoderStateMachine #1] WARNING: Decoder=7f8623e49c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602023592741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaWOMsF"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023599454	Marionette	INFO	Listening on port 41097
+1602023599489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 16534, MediaDecoderStateMachine #1] WARNING: 7fd86938ca50 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 16534, MediaDecoderStateMachine #1] WARNING: 7fd86938ccc0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 16534, MediaDecoderStateMachine #1] WARNING: Decoder=7fd867211400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://ced.sascdn.com/tag/3310/smart.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1602023714447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexP9NE7"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023720045	Marionette	INFO	Listening on port 35099
+1602023720054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 16958, MediaDecoderStateMachine #1] WARNING: 7faa5f514160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 16958, MediaDecoderStateMachine #1] WARNING: Decoder=7faa6ca23c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 16958, MediaDecoderStateMachine #1] WARNING: 7faa5f514160 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 16958, MediaDecoderStateMachine #1] WARNING: Decoder=7faa6ca23c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602023757039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW0C0Rf"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023763716	Marionette	INFO	Listening on port 44327
+1602023763803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 17352, MediaDecoderStateMachine #1] WARNING: 7f2ee9d35bb0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 17352, MediaDecoderStateMachine #1] WARNING: 7f2ee9d35bb0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 17352, MediaDecoderStateMachine #1] WARNING: Decoder=7f2ef48fcc00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602023781549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqFuQsX"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023786225	Marionette	INFO	Listening on port 38287
+1602023786321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1602023945867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyp502T"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023948684	Marionette	INFO	Listening on port 43745
+1602023949013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 18268, MediaDecoderStateMachine #1] WARNING: 7fa922a65390 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 18268, MediaDecoderStateMachine #1] WARNING: 7fa922a65390 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 18268, MediaDecoderStateMachine #1] WARNING: Decoder=7fa931303000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602023958244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUN7LGa"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023960194	Marionette	INFO	Listening on port 32923
+1602023960257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 18596, MediaDecoderStateMachine #1] WARNING: 7fd87b360e60 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 18596, MediaDecoderStateMachine #1] WARNING: 7fd87b360e60 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 18596, MediaDecoderStateMachine #1] WARNING: Decoder=7fd87b478c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602023971384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZmuQkN"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602023973762	Marionette	INFO	Listening on port 43081
+1602023973799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 18884, MediaDecoderStateMachine #1] WARNING: 7f1e97cdfd90 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 18884, MediaDecoderStateMachine #1] WARNING: Decoder=7f1e98261400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 18884, MediaDecoderStateMachine #1] WARNING: 7f1e98298ef0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 18884, MediaDecoderStateMachine #1] WARNING: Decoder=7f1e98261400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602024069403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemCiiOH"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602024071786	Marionette	INFO	Listening on port 33543
+1602024071818	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 19203, MediaDecoderStateMachine #1] WARNING: 7f17d952c230 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 19203, MediaDecoderStateMachine #1] WARNING: 7f17da243050 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 19203, MediaDecoderStateMachine #1] WARNING: Decoder=7f17d9ed1000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602024094322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQC0tQ2"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602024096499	Marionette	INFO	Listening on port 36015
+1602024096531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 19555, MediaDecoderStateMachine #1] WARNING: 7f5ff46d5870 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 19555, MediaDecoderStateMachine #1] WARNING: 7f60034ceb20 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 19555, MediaDecoderStateMachine #1] WARNING: Decoder=7f5ff3e31400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602024120288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefGEZ27"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602024122719	Marionette	INFO	Listening on port 44941
+1602024122795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 19830, MediaDecoderStateMachine #1] WARNING: 7fbbdaa3b460 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 19830, MediaDecoderStateMachine #1] WARNING: Decoder=7fbbda7ccc00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Home directory not accessible: Permission denied
+[Child 19830, MediaDecoderStateMachine #1] WARNING: 7fbbd39807a0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 19830, MediaDecoderStateMachine #1] WARNING: Decoder=7fbbd698c800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602024421794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKinx4R"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602024424525	Marionette	INFO	Listening on port 35779
+1602024424604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 20278, MediaDecoderStateMachine #1] WARNING: 7fefa4dcdbb0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 20278, MediaDecoderStateMachine #1] WARNING: 7fefa4dcdc80 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 20278, MediaDecoderStateMachine #1] WARNING: Decoder=7fefaed6f400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1602024440288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9YibsB"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602024443036	Marionette	INFO	Listening on port 38669
+1602024443097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 20588, MediaDecoderStateMachine #1] WARNING: 7f6a14450300 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 20588, MediaDecoderStateMachine #1] WARNING: Decoder=7f6a1e0e7800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 20588, MediaDecoderStateMachine #1] WARNING: 7f6a144503d0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 20588, MediaDecoderStateMachine #1] WARNING: Decoder=7f6a1e0e7800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602024543965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu5sU6p"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602024546548	Marionette	INFO	Listening on port 40469
+1602024546574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 20977, MediaDecoderStateMachine #1] WARNING: 7f3a43ffce60 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 20977, MediaDecoderStateMachine #1] WARNING: 7f3a43ffce60 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 20977, MediaDecoderStateMachine #1] WARNING: Decoder=7f3a43973c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602024561672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBzY2Jf"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602024564150	Marionette	INFO	Listening on port 37565
+1602024564191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 21282, MediaDecoderStateMachine #1] WARNING: 7f78d3e5aa10 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 21282, MediaDecoderStateMachine #1] WARNING: 7f78d3e5aa10 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 21282, MediaDecoderStateMachine #1] WARNING: Decoder=7f78e0781400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1602024584774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileScUtLp"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602024587791	Marionette	INFO	Listening on port 44285
+1602024587887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 21638, MediaDecoderStateMachine #1] WARNING: 7fa027a24bb0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 21638, MediaDecoderStateMachine #1] WARNING: 7fa0341e9870 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 21638, MediaDecoderStateMachine #1] WARNING: Decoder=7fa030809c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Home directory not accessible: Permission denied
+[Child 21638, MediaDecoderStateMachine #1] WARNING: 7fa025b6fbb0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 21638, MediaDecoderStateMachine #1] WARNING: Decoder=7fa025b34400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602024600905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenzWJDU"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602024604512	Marionette	INFO	Listening on port 37483
+1602024604562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 21931, MediaDecoderStateMachine #1] WARNING: 7fdc38524390 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 21931, MediaDecoderStateMachine #1] WARNING: Decoder=7fdc28fd2000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602025024267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0hIslt"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602025026831	Marionette	INFO	Listening on port 37681
+1602025026878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 22493, MediaDecoderStateMachine #1] WARNING: 7fd79160bbb0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 22493, MediaDecoderStateMachine #1] WARNING: Decoder=7fd79c1dec00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602025125418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUkXY24"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602025127587	Marionette	INFO	Listening on port 42935
+1602025127625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 22827, MediaDecoderStateMachine #1] WARNING: 7fe8f42afef0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 22827, MediaDecoderStateMachine #1] WARNING: 7fe8f42afef0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 22827, MediaDecoderStateMachine #1] WARNING: Decoder=7fe8f5d06800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602025521973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaIaUwG"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602025526438	Marionette	INFO	Listening on port 37415
+1602025526490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 23255, MediaDecoderStateMachine #1] WARNING: 7fc5a2cb7a50 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 23255, MediaDecoderStateMachine #1] WARNING: 7fc5a13561f0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 23255, MediaDecoderStateMachine #1] WARNING: Decoder=7fc5b1bd7c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1602025541948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeLT4G7"
+*** You are running in headless mode.
+Home directory not accessible: Permission denied
+[Child 23255, MediaDecoderStateMachine #1] WARNING: 7fc59d58aae0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 23255, MediaDecoderStateMachine #1] WARNING: Decoder=7fc5a134b400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602025547135	Marionette	INFO	Listening on port 41305
+1602025547179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 23646, MediaDecoderStateMachine #1] WARNING: 7fdf37cfc530 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 23646, MediaDecoderStateMachine #1] WARNING: 7fdf37cfc530 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 23646, MediaDecoderStateMachine #1] WARNING: Decoder=7fdf4160b800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602025580671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXGi9LI"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602025583960	Marionette	INFO	Listening on port 43219
+1602025584052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 23932, MediaDecoderStateMachine #1] WARNING: 7f5ef16f5fc0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 23932, MediaDecoderStateMachine #1] WARNING: Decoder=7f5eee70a000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+[Child 23932, MediaDecoderStateMachine #1] WARNING: Decoder=7f5eee70a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1602025647846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuUcRhU"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602025652846	Marionette	INFO	Listening on port 46685
+1602025652913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 24275, MediaDecoderStateMachine #1] WARNING: 7f8141978e20 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 24275, MediaDecoderStateMachine #1] WARNING: Decoder=7f813ef04000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript error: https://ced.sascdn.com/tag/3310/smart.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+[Child 24275, MediaDecoderStateMachine #1] WARNING: Decoder=7f813ef04000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1602025887997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0fnIAF"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602025891439	Marionette	INFO	Listening on port 44167
+1602025891514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 24691, MediaDecoderStateMachine #1] WARNING: 7f85913d77a0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 24691, MediaDecoderStateMachine #1] WARNING: Decoder=7f8593f1e400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 24691, MediaDecoderStateMachine #1] WARNING: 7f85913d77a0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 24691, MediaDecoderStateMachine #1] WARNING: Decoder=7f8593f1e400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602025911925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUSNsj4"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602025918808	Marionette	INFO	Listening on port 35931
+1602025918882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 25047, MediaDecoderStateMachine #1] WARNING: 7fb62010f600 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 25047, MediaDecoderStateMachine #1] WARNING: Decoder=7fb61cf61000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 25047, MediaDecoderStateMachine #1] WARNING: 7fb62010f600 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 25047, MediaDecoderStateMachine #1] WARNING: Decoder=7fb61cf61000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Home directory not accessible: Permission denied
+[Child 25047, MediaDecoderStateMachine #1] WARNING: 7fb60892f1f0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 25047, MediaDecoderStateMachine #1] WARNING: Decoder=7fb60f554800 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602025965997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegJnJYi"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602025969074	Marionette	INFO	Listening on port 37087
+1602025969108	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 25438, MediaDecoderStateMachine #1] WARNING: 7f9d71a838b0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 25438, MediaDecoderStateMachine #1] WARNING: 7f9d7149b1f0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 25438, MediaDecoderStateMachine #1] WARNING: Decoder=7f9d7ba06c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602064915638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUVYKH3"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602064919790	Marionette	INFO	Listening on port 43867
+1602064919853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 26151, MediaDecoderStateMachine #1] WARNING: 7fc58d056600 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 26151, MediaDecoderStateMachine #1] WARNING: 7fc58d056600 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 26151, MediaDecoderStateMachine #1] WARNING: Decoder=7fc596fe9000 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1602064948099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOWrc1r"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602064951326	Marionette	INFO	Listening on port 39821
+1602064951423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 26433, MediaDecoderStateMachine #1] WARNING: 7fbcf0fde6d0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 26433, MediaDecoderStateMachine #1] WARNING: 7fbcefcf3120 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 26433, MediaDecoderStateMachine #1] WARNING: Decoder=7fbcf0b38c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Home directory not accessible: Permission denied
+[Child 26433, MediaDecoderStateMachine #1] WARNING: 7fbcefcd6120 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 26433, MediaDecoderStateMachine #1] WARNING: Decoder=7fbcfa573400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602065035348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexu6sHW"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602065038693	Marionette	INFO	Listening on port 44581
+1602065038789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 26804, MediaDecoderStateMachine #1] WARNING: 7fbb71cfc2c0 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+Home directory not accessible: Permission denied
+[Child 26804, MediaDecoderStateMachine #1] WARNING: 7fbb71cfc390 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 26804, MediaDecoderStateMachine #1] WARNING: Decoder=7fbb82b04c00 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+[Child 26804, MediaDecoderStateMachine #1] WARNING: Decoder=7fbb82b04c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1602065184875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileESaQn8"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602065189161	Marionette	INFO	Listening on port 38979
+1602065191085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602065315389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIQwmne"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602065318485	Marionette	INFO	Listening on port 37001
+1602065318513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: TypeError: t is null
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.dr.dk/hydra/assets/1.c1d3b707a3d7b9d7da44.js, line 2: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+Home directory not accessible: Permission denied
+[Child 27555, MediaDecoderStateMachine #1] WARNING: 7fa91b3f4460 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 27555, MediaDecoderStateMachine #1] WARNING: Decoder=7fa91a2bb400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+Home directory not accessible: Permission denied
+[Child 27555, MediaDecoderStateMachine #1] WARNING: 7fa91b3f4390 OpenCubeb() failed to init cubeb: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/AudioStream.cpp, line 330
+[Child 27555, MediaDecoderStateMachine #1] WARNING: Decoder=7fa91a2bb400 [OnMediaSinkAudioError]: file /build/firefox-39iLDY/firefox-79.0+build1/dom/media/MediaDecoderStateMachine.cpp, line 3891
+1602074313855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileranTjN"
+*** You are running in headless mode.
