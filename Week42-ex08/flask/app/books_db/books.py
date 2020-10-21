@@ -1,9 +1,10 @@
 import mysql.connector as mysql
 # sqlalchemy helped convert strings to dates seamlessly
 from sqlalchemy import create_engine
-#import pandas as pd
+import pandas as pd
 import csv
 import sys
+import os
 
 
 class Book():
@@ -32,11 +33,10 @@ class Book():
         return db
 
     def insert_data_from_sheet(self):
-        filename = "./prog_book.csv"
+        filename = "./books_db/prog_book.csv"
         tablename = "week42"
         try:
-            #cnx = mysql.connect(host="db", user="root", passwd="root", db="db")
-            cnx = Book.mysql_connect('')
+            cnx = mysql.connect(host="db", user="root", passwd="root", db="db")
             cursor = cnx.cursor(prepared=True)
             # Dropping EMPLOYEE table if already exists.
             cursor.execute("DROP TABLE IF EXISTS %s" % (tablename))
@@ -51,7 +51,8 @@ class Book():
             # print(len(header_row))
             for idx, header in enumerate(header_row):
                 if (idx == 0):
-                    sql += 'CREATE TABLE %s(' % (tablename)
+                    sql += 'CREATE TABLE %s(bookid INTEGER not null AUTO_INCREMENT unique,' % (
+                        tablename)
                 if (idx != len(header_row)-1):
                     sql += '%s VARCHAR(2000) not null, ' % (header)
                 else:
@@ -65,11 +66,10 @@ class Book():
         except:
             e = sys.exc_info()[0]
             return e
-            #print('Something went wrong see error')
 
         try:
             # reading csv file
-            data = pd.read_csv("./prog_book.csv")
+            data = pd.read_csv(filename)
 
             # Creating a connection
             con_str = "mysql+mysqlconnector://root:root@db/db"
@@ -81,10 +81,8 @@ class Book():
             df.to_sql(tablename, con=engine, if_exists='append', index=False)
             print('Successfully inserted data')
         except:
-            e = sys.exc_info()[0]
-            return e
-            # return 'Something went wrong see error'
-            #print('Something went wrong see error')
+            print('Something went wrong see error')
+        return 'Everything went okay. Data was pushed to the Database'
 
     def get_all_books(self):
         db = Book.mysql_connect('')
