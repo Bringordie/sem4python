@@ -1,4 +1,20 @@
-version: '3'
+version: "3"
 services:
   web:
     build: ./
+  db:
+    image: mysql:8.0
+    # build: ./mysql/
+    container_name: mysql_flask
+    restart: always
+    environment:
+      MYSQL_DATABASE: "db"
+      # So you don't have to use root, but you can if you like
+      MYSQL_USER: "dev"
+      # You can use whatever password you like
+      MYSQL_PASSWORD: "ax2"
+      # Password for root access
+      MYSQL_ROOT_PASSWORD: "root"
+    ports:
+      # <Port exposed> : < MySQL Port running inside container>
+      - "3308:3306"
