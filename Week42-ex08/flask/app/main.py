@@ -1,6 +1,9 @@
 # from ..app import books
 # from books_db import books as book
-import books_db.books as book
+# import books_db.books as book
+
+# Enable
+from books_db import books as book
 from flask import Flask, jsonify, abort, request
 import mysql.connector as mysql
 import sqlalchemy as s_a
@@ -16,20 +19,28 @@ def hello():
      Python 3.8 (from the example template)"
 
 
+@app.route("/api/add_csv", methods=['GET'])
+def add_csv_books():
+    #db = book.Book.mysql_connect('')
+    return book.Book.insert_data_from_sheet('')
+    # return 'Books has been added from the csv file books'
+
+
 @app.route("/api/books", methods=['GET'])
 def get_all_books():
-    return jsonify({'books': book.get_all_books()})
+    return jsonify({'books': book.Book.get_all_books('')})
+    # return jsonify({'books': "Book.get_all_books()"})
 
 
-@app.route("/test", methods=['GET'])
-def get_all_books123():
-    SQLALCHEMY_DATABASE_URL = "mysql+mysqlconnector://root:root@db/db"
-    engine = s_a.create_engine(SQLALCHEMY_DATABASE_URL)
-    connection = engine.connect()
-    query = 'select * from week42'
-    ResultProxy = connection.execute(query)
-    ResultSet = ResultProxy.fetchall()
-    return jsonify({'books': ResultSet})
+# @app.route("/test", methods=['GET'])
+# def get_all_books123():
+#     SQLALCHEMY_DATABASE_URL = "mysql+mysqlconnector://root:root@db/db"
+#     engine = s_a.create_engine(SQLALCHEMY_DATABASE_URL)
+#     connection = engine.connect()
+#     query = 'select * from week42'
+#     ResultProxy = connection.execute(query)
+#     ResultSet = ResultProxy.fetchall()
+#     return jsonify({'books': ResultSet})
 
 
 @app.route("/api/test", methods=['GET'])
@@ -56,26 +67,7 @@ def get_all_books2():
 
 @app.route("/api/test2", methods=['GET'])
 def get_all_books3():
-    # connecting to the database using 'connect()' method
-    # db = mysql.connect(
-    #     # connect to the mysql server running in container with service name: db. CAUTION data here are not persisted past container lifespan
-    #     host="127.0.0.1",
-    #     port="3309",
-    #     user="root",
-    #     passwd="root",
-    #     db="db",
-    #     auth_plugin='mysql_native_password'
-    # )
-    db = mysql.connect(
-        # connect to the mysql server running in container with service name: db. CAUTION data here are not persisted past container lifespan
-        host="127.0.0.1",
-        port="3309",
-        user="dev",
-        passwd="ax2",
-        db="week42"
-        # ,charset='latin1'
-        # ,collation='latin1_danish_ci'
-    )
+    db = book.Book.mysql_connect('')
     db.set_charset_collation('utf8')
 
     # Getting all database information of the books

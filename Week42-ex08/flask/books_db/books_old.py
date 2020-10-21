@@ -30,19 +30,6 @@ class Book():
         return db
 
     def get_all_books(self):
-        # connecting to the database using 'connect()' method
-        # db = mysql.connect(
-        # connect to the mysql server running in container with service name: db. CAUTION data here are not persisted past container lifespan
-        #     host="127.0.0.1",
-        #     port="3309",
-        #     user="root",
-        #     passwd="root",
-        #     db="db",
-        #     auth_plugin='mysql_native_password'
-        # )
-        # db.set_charset_collation('utf8')
-
-        # connect to the mysql server running in container with service name: db. CAUTION data here are not persisted past container lifespan
         db = Book.mysql_connect('')
 
         # Getting all database information of the books
@@ -88,7 +75,7 @@ class Book():
 
 if __name__ == "__main__":
     # print(Book.get_all_books(''))
-    # print(Book.top_10_books(''))
-    test = Book("rating123", "reviews", "book_title", "description",
-                "number_of_pages", "type", "price")
-    print(test)
+    print(Book.top_10_books(''))
+    # test = Book("rating123", "reviews", "book_title", "description",
+    #             "number_of_pages", "type", "price")
+    # print(test)
