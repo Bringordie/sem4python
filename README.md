@@ -18,4 +18,4 @@ Week 40 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/
 
 Week 41 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bringordie/sem4python/master?filepath=Week41-ex07%2FWeek_41.ipynb)
 
-Week 41 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bringordie/sem4python/master?filepath=Week42-ex08%2FWeek_42.ipynb)
+Week 42 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bringordie/sem4python/master?filepath=Week42-ex08%2FWeek_42.ipynb)
