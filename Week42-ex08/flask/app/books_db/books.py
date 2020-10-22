@@ -9,17 +9,17 @@ import os
 
 class Book():
 
-    def __init__(self, rating, reviews, book_title, description, number_of_pages, type, price):
+    def __init__(self, rating, reviews, book_title, description, number_of_pages, booktype, price):
         self.rating = rating
         self.reviews = reviews
         self.book_title = book_title
         self.description = description
         self.number_of_pages = number_of_pages
-        self.type = type
+        self.booktype = booktype
         self.price = price
 
     def __str__(self):
-        return 'Book {rating}: {reviews}, {book_title}, {description}, {number_of_pages}, {type}, {price}'.format(rating=self.rating, reviews=self.reviews, book_title=self.book_title, description=self.description, number_of_pages=self.number_of_pages, type=self.type, price=self.price)
+        return 'Book {rating}: {reviews}, {book_title}, {description}, {number_of_pages}, {type}, {price}'.format(rating=self.rating, reviews=self.reviews, book_title=self.book_title, description=self.description, number_of_pages=self.number_of_pages, booktype=self.booktype, price=self.price)
 
     def mysql_connect(self):
         db = mysql.connect(
@@ -35,6 +35,7 @@ class Book():
     def insert_data_from_sheet(self):
         filename = "./books_db/prog_book.csv"
         tablename = "week42"
+        # Creating tables
         try:
             cnx = mysql.connect(host="db", user="root", passwd="root", db="db")
             cursor = cnx.cursor(prepared=True)
@@ -48,7 +49,6 @@ class Book():
 
             # Creating table as per requirement
             sql = ''
-            # print(len(header_row))
             for idx, header in enumerate(header_row):
                 if (idx == 0):
                     sql += 'CREATE TABLE %s(bookid INTEGER not null AUTO_INCREMENT unique,' % (
@@ -67,6 +67,7 @@ class Book():
             e = sys.exc_info()[0]
             return e
 
+        # Adding data
         try:
             # reading csv file
             data = pd.read_csv(filename)
@@ -109,29 +110,75 @@ class Book():
         return result
 
     def add_book(self):
-        db = Book.mysql_connect('')
-        # engine = create_engine(db)
-        # df = pd.DataFrame({'firstname': ['Ulrik', 'Ulla', 'Ulfred'],
-        #                    'lastname': ['Volborg', 'Willman', 'Valberg'],
-        #                    'startdate': ['2003-03-03', '2001-05-04', '2001-01-04'],
-        #                    'enddate': ['2005-08-20', '2005-12-24', '2006-10-30'],
-        #                    'salary': ['21000', '32000', '43000']})
-        TODO = ''
+        try:
+            cnx = Book.mysql_connect('')
+            cursor = cnx.cursor(prepared=True)
+            sql = "INSERT INTO week42 (Rating, Reviews, Book_title, Description, Number_Of_Pages, Type, Price) VALUES (%s,%s,%s,%s,%s,%s,%s)"
+            book_data = (self.rating, self.reviews, self.book_title,
+                         self.description, self.number_of_pages, self.booktype, self.price)
+            cursor.execute(sql, book_data)
+            cnx.commit()
 
-    def delete_book(self):
-        TODO = ''
+            # Closing the connection
+            cnx.close()
+            print('Successfully add Book')
+        except mysql.connector.Error as error:
+            print("Failed to delete record from table: {}".format(error))
+            return error
+        return 'Book added'
 
-    def edit_book(self):
-        TODO = ''
+    def delete_book(self, bookid):
+        try:
+            cnx = Book.mysql_connect('')
+            cursor = cnx.cursor(prepared=True)
+            sql = 'delete from week42 where bookid = %s' % (bookid)
+            print(sql)
+
+            cursor.execute(sql)
+            cnx.commit()
+
+            # Closing the connection
+            cnx.close()
+            print('Successfully deleted Book')
+        except mysql.connector.Error as error:
+            print("Failed to delete record from table: {}".format(error))
+            return error
+        return 'Book: {} has been deleted'.format(bookid)
+
+    def edit_book(self, bookid):
+        try:
+            cnx = Book.mysql_connect('')
+            cursor = cnx.cursor(prepared=True)
+
+            sql_update_query = "update week42 set Rating = \'%s\', Reviews = \'%s\', Book_title = \'%s\', Description = \'%s\', Number_Of_Pages = \'%s\', Type = \'%s\', Price = \'%s\' where bookid = %d" % (
+                self.rating, self.reviews, self.book_title, self.description, self.number_of_pages, self.booktype, self.price, bookid)
+
+            cursor.execute(sql_update_query)
+            cnx.commit()
+
+            # Closing the connection
+            cnx.close()
+            print('Successfully edited Book')
+        except mysql.connector.Error as error:
+            print("Failed to delete record from table: {}".format(error))
+            return error
+        return 'Book Edited'
 
     def avg_price(self):
-        TODO = ''
+        try:
+            cnx = Book.mysql_connect('')
+            cursor = cnx.cursor(prepared=True)
+            sql = "SELECT AVG(Price) FROM week42"
 
+            cursor.execute(sql)
+            result = cursor.fetchone()
 
-if __name__ == "__main__":
-    # print(Book.get_all_books(''))
-    # print(Book.top_10_books(''))
-    # test = Book("rating123", "reviews", "book_title", "description",
-    #             "number_of_pages", "type", "price")
-    # print(test)
-    print(Book.insert_data_from_sheet(''))
+            formatted_float = "{:.2f}".format(result[0])
+            print('The average of all Books are:', formatted_float)
+
+            # Closing the connection
+            cnx.close()
+        except mysql.connector.Error as error:
+            print("Failed to delete record from table: {}".format(error))
+            return error
+        return ('The average of all Books are: {}'.format(formatted_float))
