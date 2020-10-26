@@ -1,3 +1,4 @@
+import requests
 import bs4
 from time import sleep
 from selenium import webdriver
@@ -58,3 +59,7 @@ def get_first_article_para():
         return soup
     except Exception as e:
         print('SOUP EXCEPTION', e)
+
+
+# if __name__ == '__main__':
+#     print(get_first_article_para())
