@@ -22,3 +22,4 @@ Week 42 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/
 
 Week 43 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bringordie/sem4python/master?filepath=Week43-ex09%2FWeek_43.ipynb)
 
+Week 44 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bringordie/sem4python/master?filepath=Week443-ex1009%2FWeek_443.ipynb)
