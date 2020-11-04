@@ -115,4 +115,22 @@ for num, country in enumerate(countries, start=0):
                 list_df[country][category] = []
                 list_df[country][category] = data.get(category)
 
-print(list_df)
+countries = ["Greece", "Spain", "France",
+             "Italy", "Portugal", "European Union"]
+categories = ["Strawberries", "Nectarines", "Apples Braeburn"]
+
+country_food_prices = []
+
+
+def make_df():
+    for country in countries:
+        country = list_df.get("Greece")
+        for category in categories:
+            if(country.get(category) is not None):
+                c_food_df = pd.DataFrame(
+                    country.get(category)).set_index('year')
+                country_food_prices.append(c_food_df)
+
+
+make_df()
+country_food_prices
